@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="1" name="Test_1-20160228224831" tests="2" time="0.000">
+	<testcase classname="Test_1" name="test_method_2" time="0.000"/>
+	<testcase classname="Test_1" name="test_method_1" time="0.000">
+		<failure message="eerorrr" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "D:\Maria\python_workspace\unittest_project\test_1.py", line 21, in test_method_1
+    self.assertEqual(2, 3, "eerorrr")
+AssertionError: eerorrr
+
+Stdout:
+Setting Up Environment
+running test method #1
+]]>		</failure>
+	</testcase>
+	<system-out>
+<![CDATA[Setting Up Environment
+running test method #2
+Tearing down Environment
+Setting Up Environment
+running test method #1
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

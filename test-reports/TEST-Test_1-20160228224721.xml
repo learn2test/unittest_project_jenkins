@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" name="Test_1-20160228224721" tests="2" time="0.000">
+	<testcase classname="Test_1" name="test_method_1" time="0.000"/>
+	<testcase classname="Test_1" name="test_method_2" time="0.000"/>
+	<system-out>
+<![CDATA[Setting Up Environment
+running test method #1
+Tearing down Environment
+Setting Up Environment
+running test method #2
+Tearing down Environment
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
